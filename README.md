@@ -1,15 +1,9 @@
-# UVA
-  
-  UVA Online Judge ACM Problem solutions
+#  UVA Online Judge ACM Problem solutions
 
-# Online Judge ID:	
+### URL: https://uva.onlinejudge.org
 
-  18961
+### Online Judge ID: 18961
 
-# PROBLEMS TRIED
+### PROBLEMS TRIED: 124
 
-  124
-
-# PROBLEMS SOLVED
-
-  106
+### PROBLEMS SOLVED: 106
